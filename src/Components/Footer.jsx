@@ -25,9 +25,12 @@ function Footer() {
           <p>📍 Palma, Illes Balears</p>
           <p>📧 fernando@digitalevolution.com</p>
           <div className="social-icons">
-            <span className="social-badge">Linked</span>
-            <span className="social-badge">GitHub</span>
-            <span className="social-badge">X</span>
+           <span className="social-badge">
+            <a href="https://github.com/fvo00/Projecto-1---Fernando-Villanueva-Ortiz---V2" target="_blank" rel="noreferrer">GitHub</a>
+           </span>
+            <span className="social-badge">
+                <a href="https://app.netlify.com/teams/fvo00/projects" target="_blank" rel="noreferrer">Netlify</a>
+            </span>
           </div>
         </div>
       </div>

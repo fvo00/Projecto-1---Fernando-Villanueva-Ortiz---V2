@@ -1,0 +1,40 @@
+{
+  "servicios": [
+    {
+      "id": 1,
+      "titulo": "Desarrollo Frontend",
+      "icono": "💻",
+      "desc": "Interfaces modernas y ultra rápidas con React.",
+      "img": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500"
+    },
+    {
+      "id": 2,
+      "titulo": "Optimización Web",
+      "icono": "🚀",
+      "desc": "Mejora de tiempos de carga y SEO para Digital Evolution S.A.",
+      "img": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=500"
+    },
+    {
+      "id": 3,
+      "titulo": "Diseño UI/UX",
+      "icono": "🎨",
+      "desc": "Prototipado centrado en el usuario con estética profesional.",
+      "img": "https://images.unsplash.com/photo-1561070791-2526d30994b5?auto=format&fit=crop&q=80&w=1000"    }
+  ],
+  "testimonios": [
+    {
+      "id": 1,
+      "autor": "Ana Martínez",
+      "cargo": "CEO en TechFlow",
+      "texto": "Fernando transformó nuestra plataforma. Su atención al detalle es excepcional.",
+      "avatar": "https://randomuser.me/api/portraits/women/44.jpg"
+    },
+    {
+      "id": 2,
+      "autor": "Carlos Ruiz",
+      "cargo": "Founder de Innova",
+      "texto": "Un experto en React. Consiguió que nuestra web fuera fluida y moderna.",
+      "avatar": "https://randomuser.me/api/portraits/men/32.jpg"
+    }
+  ]
+}
